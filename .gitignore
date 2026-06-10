@@ -1,0 +1,14 @@
+.gitignore
+*.pyc
+__pycache__/
+*.egg-info/
+.DS_Store
+.env
+output/
+*.xlsx
+.vscode/
+.idea/
+venv/
+env/
+.pytest_cache/
+*.log
